@@ -1,5 +1,5 @@
-import { schedulesDay } from "./schedules/loaad.js"
+import { schedulesDay } from "./schedules/load.js"
 
-document.addEventListener("DOMContentLoaded", function () {
-    schedulesDay()
+document.addEventListener("DOMContentLoaded", function(){
+  schedulesDay()
 })
